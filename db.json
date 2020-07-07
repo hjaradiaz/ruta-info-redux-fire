@@ -1,0 +1,25 @@
+{
+  "restaurant": [
+    {
+      "nombre": "Arroz con leche",
+      "precio": "12",
+      "categoria": "Postres",
+      "descripcion": "arroz",
+      "id": "68a2ab7e-8e30-48ec-9057-71458df5b668"
+    },
+    {
+      "nombre": "torta helada",
+      "precio": "12",
+      "categoria": "Postres",
+      "descripcion": "gelatina",
+      "id": "905b7ed6-3b0a-4f94-a760-73926464aff8"
+    },
+    {
+      "nombre": "torta 3 leches",
+      "precio": "10",
+      "categoria": "Postres",
+      "descripcion": "leche",
+      "id": "39082e92-af4d-4f5d-9a70-693839ab8430"
+    }
+  ]
+}
